@@ -10,3 +10,6 @@ Jenis Asuransi: Jenis cakupan asuransi yang dipilih pelanggan.
 Jumlah Polis: Jumlah polis yang dimiliki setiap pelanggan.
 Pendapatan dan Pendidikan: Informasi demografi yang relevan.
 Nilai CLV: Target yang akan diprediksi berdasarkan fitur-fitur lain. Dataset ini mencakup data historis dari pelanggan perusahaan asuransi yang dapat digunakan untuk membangun model prediksi.
+
+## Tunuan
+Tujuan utama dari analisis ini adalah untuk memahami faktor-faktor yang memengaruhi nilai Customer Lifetime Value (CLV) dengan mengidentifikasi variabel-variabel yang memiliki pengaruh signifikan terhadap nilai tersebut, serta mengembangkan model prediktif yang akurat dan efisien untuk menghitung CLV pelanggan. Dengan prediksi yang tepat, analisis ini diharapkan dapat memberikan wawasan bagi perusahaan dalam merancang strategi pemasaran dan alokasi sumber daya yang lebih relevan, personal, dan berbasis data untuk mendukung keputusan strategis yang meningkatkan profitabilitas dan efisiensi operasional.
